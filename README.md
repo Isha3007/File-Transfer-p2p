@@ -1,4 +1,4 @@
-# File-Transfer-p2p
+# File-Transfer Application
 
 A simple and secure file sharing app built with Node.js, Express, MongoDB, and Multer. This app allows users to upload files and optionally protect them with a password before sharing a download link.
 
